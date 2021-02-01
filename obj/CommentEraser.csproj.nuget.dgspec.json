@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xbox0\\source\\repos\\CommentEraser\\CommentEraser\\CommentEraser.csproj": {}
+    "C:\\Users\\xbox0\\Desktop\\CommentEraser\\CommentEraser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xbox0\\source\\repos\\CommentEraser\\CommentEraser\\CommentEraser.csproj": {
+    "C:\\Users\\xbox0\\Desktop\\CommentEraser\\CommentEraser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xbox0\\source\\repos\\CommentEraser\\CommentEraser\\CommentEraser.csproj",
+        "projectUniqueName": "C:\\Users\\xbox0\\Desktop\\CommentEraser\\CommentEraser.csproj",
         "projectName": "CommentEraser",
-        "projectPath": "C:\\Users\\xbox0\\source\\repos\\CommentEraser\\CommentEraser\\CommentEraser.csproj",
+        "projectPath": "C:\\Users\\xbox0\\Desktop\\CommentEraser\\CommentEraser.csproj",
         "packagesPath": "C:\\Users\\xbox0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xbox0\\source\\repos\\CommentEraser\\CommentEraser\\obj\\",
+        "outputPath": "C:\\Users\\xbox0\\Desktop\\CommentEraser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xbox0\\AppData\\Roaming\\NuGet\\NuGet.Config",

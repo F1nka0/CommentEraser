@@ -1,0 +1,13 @@
+C:\Users\xbox0\Desktop\CommentEraser\bin\Debug\netcoreapp3.1\CommentEraser.exe
+C:\Users\xbox0\Desktop\CommentEraser\bin\Debug\netcoreapp3.1\CommentEraser.deps.json
+C:\Users\xbox0\Desktop\CommentEraser\bin\Debug\netcoreapp3.1\CommentEraser.runtimeconfig.json
+C:\Users\xbox0\Desktop\CommentEraser\bin\Debug\netcoreapp3.1\CommentEraser.runtimeconfig.dev.json
+C:\Users\xbox0\Desktop\CommentEraser\bin\Debug\netcoreapp3.1\CommentEraser.dll
+C:\Users\xbox0\Desktop\CommentEraser\bin\Debug\netcoreapp3.1\CommentEraser.pdb
+C:\Users\xbox0\Desktop\CommentEraser\obj\Debug\netcoreapp3.1\CommentEraser.csprojAssemblyReference.cache
+C:\Users\xbox0\Desktop\CommentEraser\obj\Debug\netcoreapp3.1\CommentEraser.AssemblyInfoInputs.cache
+C:\Users\xbox0\Desktop\CommentEraser\obj\Debug\netcoreapp3.1\CommentEraser.AssemblyInfo.cs
+C:\Users\xbox0\Desktop\CommentEraser\obj\Debug\netcoreapp3.1\CommentEraser.csproj.CoreCompileInputs.cache
+C:\Users\xbox0\Desktop\CommentEraser\obj\Debug\netcoreapp3.1\CommentEraser.dll
+C:\Users\xbox0\Desktop\CommentEraser\obj\Debug\netcoreapp3.1\CommentEraser.pdb
+C:\Users\xbox0\Desktop\CommentEraser\obj\Debug\netcoreapp3.1\CommentEraser.genruntimeconfig.cache
