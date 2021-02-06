@@ -111,7 +111,7 @@ namespace CommentEraser
             writeDown(newFileName);
         }
     }
-    enum OutcomeOptions { /*add clipboard option*/
+    enum OutcomeOptions { 
         createNew = 0,
         updateCurrent
     }
@@ -119,8 +119,6 @@ namespace CommentEraser
     {
         static void Main(string[] args)
         {
-            CommentEraser ver = new CommentEraser(@"C:\Users\xbox0\Desktop\tests\test2.txt", OutcomeOptions.createNew);
-            ver.Erase("hasnot","hasnot");
         }
     }
 }
